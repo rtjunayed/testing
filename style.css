@@ -5,3 +5,7 @@ h1{
     display: inline-block;
     border-radius: 5px;
 }
+p{
+    color: blanchedalmond;
+    background-color: black;
+}
