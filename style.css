@@ -1,0 +1,7 @@
+h1{
+    color: red;
+    font-style: oblique;
+    background-color: yellow;
+    display: inline-block;
+    border-radius: 5px;
+}
